@@ -1,0 +1,22 @@
+{
+  "name": "thunder-remains-unseen",
+  "displayName": "Thunder Remains Unseen",
+  "description": "Status: 404 | Error: 404 is Not Found",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "*"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "Hishikui",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Thunder Remains Unseen",
+        "uiTheme": "vs-dark",
+        "path": "./themes/thunder-remains-unseen-color-theme.json"
+      }
+    ]
+  }
+}
