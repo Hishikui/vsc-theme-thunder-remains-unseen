@@ -1,6 +1,8 @@
 # Thunder Remains Unseen
 
-Theme initialized with preferred visual parameters and operative profiles.
+Theme initialized with preferred visual parameters and operative profiles.<br>
+This dark theme is composed of a yellow and grey color scheme.<br>
+<br>
 
 <details><summary>Colors of Theme</summary>
 
