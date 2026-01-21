@@ -2134,6 +2134,8 @@
     "breadcrumb.activeSelectionForeground": "#ffcc00",
     "editorGutter.commentRangeForeground": "#c5c5c5",
     "debugExceptionWidget.background": "#1a1a1a",
-    "debugExceptionWidget.border": "#a0a0a0"
+    "debugExceptionWidget.border": "#a0a0a0",
+    "scmGraph.historyItemHoverAdditionsForeground": "#1a1a1a",
+    "scmGraph.historyItemHoverDefaultLabelForeground": "#1a1a1a"
   }
 }
