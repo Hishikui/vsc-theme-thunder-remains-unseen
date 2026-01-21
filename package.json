@@ -18,5 +18,9 @@
         "path": "./themes/thunder-remains-unseen-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hishikui/vsc-theme-thunder-remains-unseen.git"
   }
 }
