@@ -2,7 +2,7 @@
   "name": "thunder-remains-unseen",
   "displayName": "Thunder Remains Unseen",
   "description": "Status: 404 | Error: 404 is Not Found",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "*"
   },
